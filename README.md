@@ -1,0 +1,1 @@
+simple etl pipeline + loading it into bigquery
